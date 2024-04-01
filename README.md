@@ -56,4 +56,13 @@ Some basic analytics and data cleaning was done in the EDA ipynb.
 | Wells Fargo Center    | 2     |
 | State Farm Arena      | 2     |
 
+7. Most Events Commentated By
+
+| Commentator           | Count |
+| -------------         | ------|
+| Jerry Lawler          | 24    |
+| Michael Cole          | 22    |
+| Jim Ross              | 11    |
+| Corey Graves          | 8     |
+
    
