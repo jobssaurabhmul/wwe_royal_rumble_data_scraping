@@ -19,4 +19,10 @@ Cagematch is a popular website in the world of professional wrestling, dedicated
 
 # Procedure
 1. First I needed a list of the events to scrape the data from. The first event was in 1988 and the latest one was in 2024. On the website there was no particular tag or filter from which all the events were listed in one place. Hence I used the website's search functionality to get all the required events on one page. By using custom filters in python, I was able to extract the details for the required events only.
-2. 
+2. I started out by scraping the data for a single event using selenium. I mostly used to search for the required objects using html tags. Once the data was scraped for one event, I looped it to cover all the events.
+3. The data that was captured was:
+   + The list of winners
+   + The notes of the match, which detailed the order of eliminations of the competitors
+   + The results which displayed the winner and total time duration of the match
+  
+   
