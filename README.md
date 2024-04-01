@@ -65,4 +65,5 @@ Some basic analytics and data cleaning was done in the EDA ipynb.
 | Jim Ross              | 11    |
 | Corey Graves          | 8     |
 
-   
+8. Total number of winners from 1988 to 2024: 45 -> 38 Men, 7 Women
+
