@@ -39,7 +39,7 @@ Cagematch is a popular website in the world of professional wrestling, dedicated
 **Hence the analytics project was converted to a Data Scraping Project**
 
 # Analytics
-Some basic analytics and data cleaning was done in the EDA ipynb.
+Some analytics and data cleaning was done in the EDA ipynb.
 
 **Results:**
 1. There have been 37 Royal Rumble Annual events starting.
