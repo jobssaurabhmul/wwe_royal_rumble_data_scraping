@@ -41,5 +41,16 @@ Cagematch is a popular website in the world of professional wrestling, dedicated
 # Analytics
 Some basic analytics and data cleaning was done in the EDA ipynb.
 
+**Results:**
+1. There have been 37 Royal Rumble Annual events starting.
+2. The first one was in 1988 The latest one was in 2024
+3. The Cities which hosted the Event the most were: San Antonio, Texas, USA -> 4  and  Philadelphia, Pennsylvania, USA -> 3
+4. The States which have hosted the Event the most: Florida -> 7  and  Texas  ->   6
+5. 36 events were hosted in the USA and 1 event in Canada
+6. Arenas who have hosted the event more than once
+   + Alamodome                3
+   + Madison Square Garden    2
+   + Wells Fargo Center       2
+   + State Farm Arena         2
 
    
