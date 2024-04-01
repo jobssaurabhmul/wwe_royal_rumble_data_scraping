@@ -29,6 +29,7 @@ Cagematch is a popular website in the world of professional wrestling, dedicated
    + One match had more than 1 winner -> had to manually correct the result on my end
    + The Royal Rumble matches for Women was started in 2018 -> the data was collected using loops and if conditions
 5. The data for all the Royal Rumble Events, for the Men and the Women was captured.
+
 ![image](https://github.com/jobssaurabhmul/wwe_royal_rumble_data_scraping/assets/152073191/4e720a61-b85d-474d-9555-d63e0aeee304)
 
 
