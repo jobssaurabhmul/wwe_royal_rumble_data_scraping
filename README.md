@@ -24,5 +24,8 @@ Cagematch is a popular website in the world of professional wrestling, dedicated
    + The list of winners
    + The notes of the match, which detailed the order of eliminations of the competitors
    + The results which displayed the winner and total time duration of the match
-  
+4. Issues faced:
+   + One match had more than 1 winner, had to manually correct the result on my end
+   + The Royal Rumble matches for Women was started in 2018, the data was collected using loops and if conditions
+   + 
    
