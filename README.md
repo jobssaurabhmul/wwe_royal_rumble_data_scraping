@@ -48,9 +48,12 @@ Some basic analytics and data cleaning was done in the EDA ipynb.
 4. The States which have hosted the Event the most: Florida -> 7  and  Texas  ->   6
 5. 36 events were hosted in the USA and 1 event in Canada
 6. Arenas who have hosted the event more than once
-   + Alamodome                3
-   + Madison Square Garden    2
-   + Wells Fargo Center       2
-   + State Farm Arena         2
+
+| Arena                 | Count |
+| -------------         | ------|
+| Alamodome             | 3     |
+| Madison Square Garden | 2     |
+| Wells Fargo Center    | 2     |
+| State Farm Arena      | 2     |
 
    
