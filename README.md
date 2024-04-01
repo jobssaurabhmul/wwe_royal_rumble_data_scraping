@@ -21,11 +21,25 @@ Cagematch is a popular website in the world of professional wrestling, dedicated
 1. First I needed a list of the events to scrape the data from. The first event was in 1988 and the latest one was in 2024. On the website there was no particular tag or filter from which all the events were listed in one place. Hence I used the website's search functionality to get all the required events on one page. By using custom filters in python, I was able to extract the details for the required events only.
 2. I started out by scraping the data for a single event using selenium. I mostly used to search for the required objects using html tags. Once the data was scraped for one event, I looped it to cover all the events.
 3. The data that was captured was:
+   + Details about the event like stadium, city, crowd capacity,etc.
    + The list of winners
    + The notes of the match, which detailed the order of eliminations of the competitors
    + The results which displayed the winner and total time duration of the match
-4. Issues faced:
-   + One match had more than 1 winner, had to manually correct the result on my end
-   + The Royal Rumble matches for Women was started in 2018, the data was collected using loops and if conditions
-   + 
+4. Issues faced -> and Solutions:
+   + One match had more than 1 winner -> had to manually correct the result on my end
+   + The Royal Rumble matches for Women was started in 2018 -> the data was collected using loops and if conditions
+5. The data for all the Royal Rumble Events, for the Men and the Women was captured.
+![image](https://github.com/jobssaurabhmul/wwe_royal_rumble_data_scraping/assets/152073191/4e720a61-b85d-474d-9555-d63e0aeee304)
+
+
+## Major Issue Faced
+1. Half way through the Project I realised that with the data captured, I may not be able to get a lot of the statistics that I was looking for in the first place.
+2. I later realized that Wikipedia had better collated data from which I could possibly show more of the statistics.
+
+**Hence the analytics project was converted to a Data Scraping Project**
+
+# Analytics
+Some basic analytics and data cleaning was done in the EDA ipynb.
+
+
    
